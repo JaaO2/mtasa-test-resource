@@ -1,0 +1,3 @@
+messages = {
+    start = "ROZPOCZECIE NAPADU"
+}
